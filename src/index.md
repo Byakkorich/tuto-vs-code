@@ -1,0 +1,1 @@
+Hola mundo! soy Ricardo Mena, estoy aprendieno VS code
